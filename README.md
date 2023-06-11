@@ -26,3 +26,6 @@ Postgres Defaults:
       POSTGRES_USER: test
       POSTGRES_PASSWORD: test_pass
       POSTGRES_DB: test
+
+##Project
+A basic University type react-typescript based project where admin can add new classes and students can enroll into those classes.
